@@ -1,0 +1,5 @@
+1-define trivia data repository
+2-Pre-loading data
+https://spring.io/guides/tutorials/bookmarks/
+3-Trivia class
+Trivia(questions, genre)
